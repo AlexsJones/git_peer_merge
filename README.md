@@ -1,16 +1,13 @@
 #git_peer_merge
 
 ```
-Merging in github can cause issues where responsibility is put on a single individual.
-In addition slow maintenance can create a backlog of pull requests that will eventually invalidate each other
-```
-##Philosophy
-
-```
-Peer reviewing gives us transparency, a shared burden of review and a chance for discussion amongst peers.
+Merging in github is best done by a consensus of peers.
+  - Greater visibility
+  - Less individual burden
+  - All peers get a chance to sway the vote
 ```
 
-##Example
+##Process
 
 - A pull request is opened and the contributor writes an opening comment stating the requirement level.
 
@@ -40,7 +37,7 @@ Alex looks okay, going to merge for you
 REVIEW_VOTE_ADD:2 (Senior developer)
 ```
 
-A suggestion of scoring
+###scoring
 ```
 Repo owner: 3
 Senior developer: 2
