@@ -14,8 +14,8 @@ Peer reviewing gives us transparency, a shared burden of review and a chance for
 
 - A pull request is opened and the contributor writes an opening comment stating the requirement level.
 
-PR Initial comment
 ```
+#PR Initial comment
 PR#41 to fix broken feature and adds new functionality..
   - Alex
 
@@ -24,8 +24,8 @@ REQUIRED_REVIEW_VOTES:3
 
 - When a reviewer notices that the pull request has been raised they can leave a vote comment if they are happy with it.
 
-PR response comment
 ```
+#PR Response comment
 Hi Alex, Looks good to me
   - John
 REVIEW_VOTE_ADD:1 (Developer)
@@ -33,8 +33,8 @@ REVIEW_VOTE_ADD:1 (Developer)
 
 - At this point we still require `2` more votes so need to wait for either 1 senior developer or two peer developers.
 
-PR response comment
 ```
+#PR response comment
 Alex looks okay, going to merge for you
   - Sam
 REVIEW_VOTE_ADD:2 (Senior developer)
