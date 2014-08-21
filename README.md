@@ -5,6 +5,7 @@ Merging in github is best done by a consensus of peers.
   - Greater visibility
   - Less individual burden
   - All peers get a chance to sway the vote
+  - Faster review times
 ```
 
 ##Process
