@@ -10,7 +10,7 @@ Merging in github is best done by a consensus of peers.
 
 ##Process
 
-- A pull request is opened and the contributor writes an opening comment stating the requirement level.
+- A pull request is opened and the contributor writes an opening comment stating the requirement level (It could be agreed upon beforehand).
 
 ```
 #PR Initial comment
@@ -26,7 +26,11 @@ REQUIRED_REVIEW_VOTES:3
 #PR Response comment
 Hi Alex, Looks good to me
   - John
-LGTM:1 (Developer)  `We see that a developer here has cast his 1 vote`
+LGTM:1 (Developer)  
+```
+We see that a developer here has cast his 1 vote at the end of his comment
+```
+LGTM:1 (Developer)  
 ```
 
 - At this point we still require `2` more votes so need to wait for either 1 senior developer or two peer developers.
@@ -38,6 +42,7 @@ Alex looks okay, going to merge for you
 LGTM:2 (Senior developer)
 ```
 - Merge is now ready to be completed by whoever reviews the score total first.
+
 ###scoring
 ```
 Repo owner: 3
