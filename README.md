@@ -26,7 +26,7 @@ REQUIRED_REVIEW_VOTES:3
 #PR Response comment
 Hi Alex, Looks good to me
   - John
-REVIEW_VOTE_ADD:1 (Developer)
+LGTM:1 (Developer)  `We see that a developer here has cast his 1 vote`
 ```
 
 - At this point we still require `2` more votes so need to wait for either 1 senior developer or two peer developers.
@@ -35,7 +35,7 @@ REVIEW_VOTE_ADD:1 (Developer)
 #PR response comment
 Alex looks okay, going to merge for you
   - Sam
-REVIEW_VOTE_ADD:2 (Senior developer)
+LGTM:2 (Senior developer)
 ```
 - Merge is now ready to be completed by whoever reviews the score total first.
 ###scoring
