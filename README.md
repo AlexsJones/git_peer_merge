@@ -37,7 +37,7 @@ Alex looks okay, going to merge for you
   - Sam
 REVIEW_VOTE_ADD:2 (Senior developer)
 ```
-
+- Merge is now ready to be completed by whoever reviews the score total first.
 ###scoring
 ```
 Repo owner: 3
